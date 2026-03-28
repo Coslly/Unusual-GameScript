@@ -3,7 +3,7 @@ Scripts that can run in any game
 ## 😘Features
 - External
 - Any game can be used
-- Safely
+- No memory access
 - Simple code
 ## 🧐Principle
 ### [C++ Triggerbot](https://github.com/Coslly/Unusual-GameScript/blob/main/Script/Triggerbot%20in%20any%20game/Triggerbot%20in%20any%20game/main.cpp)
