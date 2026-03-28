@@ -13,6 +13,7 @@ Uses the most basic characteristics of screen pixel color change (pixel color se
 Uses Ultralytics YOLO to detect people and locate their head positions in the game screen, captures the center area to improve speed, selects the target closest to the crosshair, converts the positional offset into mouse movement, and finally moves the cursor to automatically aim toward the target.
 
 To run the aimbot.py, you need to install some lib.
+
 `pip install ultralytics numpy opencv-python mss keyboard pygetwindow pywin32`
 
 ![image](https://github.com/Coslly/Unusual-GameScript/blob/main/Show/Aimbot.gif)
