@@ -10,7 +10,7 @@ Scripts that can run in any game
 Uses the most basic characteristics of screen pixel color change (pixel color selection). When the pixel color change is greater than the set value (default 50), the mouse script operation is performed to simulate a shooting in the game. Therefore, you may fire incorrectly when moving the camera in the game.
 ![image](https://github.com/Coslly/Unusual-GameScript/blob/main/Show/Triggerbot.gif)
 ### [Python Aimbot](https://github.com/Coslly/Unusual-GameScript/blob/main/Script/Aimbot_in_any_game.py)
-Uses Ultralytics YOLO to detect people and locate their head positions in the game screen, captures the center area to improve speed, selects the target closest to the crosshair, converts the positional offset into mouse movement, and finally moves the cursor to automatically aim toward the target.
+Uses [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) to detect people and locate their head positions in the game screen, captures the center area to improve speed, selects the target closest to the crosshair, converts the positional offset into mouse movement, and finally moves the cursor to automatically aim toward the target.
 
 To run the aimbot.py, you need to install some lib.
 
